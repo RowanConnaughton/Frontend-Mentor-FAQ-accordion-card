@@ -1,8 +1,6 @@
 # Frontend Mentor - FAQ accordion card
 
-# Frontend Mentor - Profile card component solution
-
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam).
 
 
 ### Screenshot
@@ -13,7 +11,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Solution](https://rowanconnaughton.github.io/Frontend-Mentor-FAQ-accordian-card/)
+- Solution URL: [Solution](https://rowanconnaughton.github.io/Frontend-Mentor-FAQ-accordion-card/)
 
 ### Built with
 
@@ -21,6 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Sass
 - Flexbox
 - BEM
+- No JS
 
 
 
